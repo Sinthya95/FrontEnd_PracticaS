@@ -1,0 +1,214 @@
+/* 
+estilos 
+#4ABDAC power blue
+#99CED4  cotton
+#EEB6B7   blush
+#6E7376    smoke
+*/
+/*RESETEO DE ESTILOS DE NAVEGADOR*/
+*{
+ margin: 0;
+ padding: 0;
+
+}
+/*menu*/
+#caja1{
+        
+        width: 100%;
+        height: 100px;
+        background:-webkit-linear-gradient(top, #99CED4 , #ffffff);
+    
+       
+
+}
+.menu{
+    list-style: none;
+    text-align: right;
+}
+
+
+
+.menu li a{
+    text-decoration: none;
+    color: #6E7376;
+    padding: 20px;
+    display: block;
+    
+  
+    
+
+}
+
+.menu li{
+    display: inline-block;
+    
+
+}
+
+.menu li a:hover{
+    background:#4ABDAC;
+    border-radius: 1em;
+   
+}
+
+.logo img{
+    width: auto;
+    height: auto;
+    image-orientation: center;
+
+}
+
+
+/*info*/
+#caja2{
+    width: 50%;
+    height: 400px;
+    background:#ffffff;
+    float: left;
+    text-align: center;
+    color: #6E7376;
+
+}
+
+
+/*imagen*/
+#caja3{
+    width: 50%;
+    height: 400px;
+    background:-webkit-linear-gradient(top,#ffffff, #EEB6B7);
+    float: right;
+    text-align: center;
+} 
+.doctor1 img{
+    width: 400px;
+    height: 520px;
+    text-align: center;
+
+}
+
+
+
+/*logos*/
+#caja4{
+    width: 100%;
+    height: 130px;
+    background:#ffffff;
+    float: left;
+    text-align: center;
+}
+
+.LOGOS img{
+
+    text-align: center;
+}
+
+#caja5{
+    width: 50%;
+    height: 200px;
+    background: #ffffff;
+    float: left;
+    text-align: center;
+    color: #6E7376;
+
+}
+
+#caja6{
+    width: 50%;
+    height: 200px;
+    background:#ffffff;
+    float: right;
+    text-align: left;
+    
+}
+
+.separador img{
+    width: 677px;
+    height: 200px;
+    text-align: auto;
+    
+}
+#caja7{
+    width: 100%;
+    height: 200px;
+    background:#ffffff;
+    float: right;
+    text-align: center;
+    
+}
+
+#caja8{
+    width: 50%;
+    height: 400px;
+    background:-webkit-linear-gradient(top,#ffffff, #EEB6B7);
+    float: left;
+    text-align: center;
+
+}
+.doc img{
+    width: 300px;
+    height: 400px;
+    text-align: auto;
+}
+
+
+#caja9{
+    width: 50%;
+    height: 400px;
+    background: #ffffff;
+    float: right;
+    text-align: center;
+    color: #6E7376;
+}
+.menu2{
+    list-style: none;
+    text-align: justify;
+    border-radius: 2em;
+}
+
+.menu2 li a{
+    text-decoration: none;
+    color: #6E7376;
+    padding: 20px;
+    display: block;
+}
+
+.menu2 li{
+    display: inline-block;
+}
+
+.menu2 li a:hover{
+    background:#4ABDAC;
+    border-radius: 1em; 
+}
+
+
+
+
+
+#caja10{
+    width: 50%;
+    height: 200px;
+    background: #ffffff;
+    float: left;
+    text-align: center;
+    color: #6E7376;
+}
+
+#caja11{
+    width: 50%;
+    height: 200px;
+    background: #ffffff;
+    float: right;
+    text-align: center;
+
+}
+
+.jimin img{
+    width: 659px;
+    height: 900px
+    
+  
+}
+
+
+        
